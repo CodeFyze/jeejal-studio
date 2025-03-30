@@ -15,9 +15,7 @@ function page() {
   <h1 className='md:text-5xl text-xl m-5 font-poppins font-bold text-red-400'>About Us</h1>
   <span className='text-red-700 font-poppins'>Since 2004</span>
   <p className='md:px-64 mt-2 px-4 font-poppins font-semibold text-black'>
-  Jeejal Studio specializes in producing music, movies, and Islamic content, including nohas and naats, 3D Commercials
-video editing and motion graphics With a passion for quality, they craft soulful melodies and cinematic experiences that resonate deeply with audiences worldwide
-
+  Jeejal Studio excels in creating captivating music, films, and Islamic content, including nohas and naats. They also specialize in 3D commercials, video editing, and motion graphics. With a commitment to excellence, Jeejal Studio delivers soulful melodies and immersive cinematic experiences that leave a lasting impact on audiences worldwide.
 </p>
 </div>
 

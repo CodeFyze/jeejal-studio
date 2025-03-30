@@ -42,10 +42,10 @@ function Footer() {
             <h2 className="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Resources</h2>
             <ul className="text-white dark:text-gray-400 font-medium">
               <li className="mb-4">
-                <a href="https://www.youtube.com/@jeejalstudio" className="hover:underline">Jeejal Studio</a>
+                <a href="https://www.youtube.com/watch?v=F_tsUHRjAeQ" className="hover:underline">Jeejal Studio</a>
               </li>
               <li>
-                <a href="#" className="hover:underline">Music</a>
+                <a href="https://youtube.com/@jeejalstudiomusic?si=5kUCTKEx6ckPmVhg " className="hover:underline">Music</a>
               </li>
             </ul>
           </div>
@@ -95,7 +95,7 @@ function Footer() {
             </svg>
             <span className="sr-only">Facebook page</span>
           </a>
-          <a href="https://www.instagram.com/jeejal_studio?igsh=bnJoZHo3c2M1YXE2" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
+          <a href="https://www.instagram.com/jeejal_studio_islamic?igsh=MWtqaGt6cHRnNm1yMw==" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
           <svg className="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
     <path fill="currentColor" d="M256 30.9c67.4 0 75.5.3 102.1 1.5 24.6 1 37.7 5.1 46.5 8.5a68.7 68.7 0 0 1 26.2 17.6 68.7 68.7 0 0 1 17.6 26.2c3.4 8.8 7.5 21.9 8.5 46.5 1.2 26.6 1.5 34.7 1.5 102.1s-.3 75.5-1.5 102.1c-1 24.6-5.1 37.7-8.5 46.5a68.7 68.7 0 0 1-17.6 26.2 68.7 68.7 0 0 1-26.2 17.6c-8.8 3.4-21.9 7.5-46.5 8.5-26.6 1.2-34.7 1.5-102.1 1.5s-75.5-.3-102.1-1.5c-24.6-1-37.7-5.1-46.5-8.5a68.7 68.7 0 0 1-26.2-17.6 68.7 68.7 0 0 1-17.6-26.2c-3.4-8.8-7.5-21.9-8.5-46.5-1.2-26.6-1.5-34.7-1.5-102.1s.3-75.5 1.5-102.1c1-24.6 5.1-37.7 8.5-46.5a68.7 68.7 0 0 1 17.6-26.2 68.7 68.7 0 0 1 26.2-17.6c8.8-3.4 21.9-7.5 46.5-8.5 26.6-1.2 34.7-1.5 102.1-1.5m0-28.9c-67.7 0-76.1.3-102.7 1.5-26.3 1.1-47.5 6.2-64.5 13.5a123 123 0 0 0-45.3 30.8A123 123 0 0 0 38 137.6C30.7 154.6 25.6 175.8 24.5 202.1 23.3 228.7 23 237.1 23 304.9s.3 76.1 1.5 102.7c1.1 26.3 6.2 47.5 13.5 64.5a123 123 0 0 0 30.8 45.3A123 123 0 0 0 137.6 474c16.9 7.3 38.1 12.4 64.5 13.5 26.6 1.2 35 1.5 102.7 1.5s76.1-.3 102.7-1.5c26.3-1.1 47.5-6.2 64.5-13.5a123 123 0 0 0 45.3-30.8 123 123 0 0 0 30.8-45.3c7.3-16.9 12.4-38.1 13.5-64.5 1.2-26.6 1.5-35 1.5-102.7s-.3-76.1-1.5-102.7c-1.1-26.3-6.2-47.5-13.5-64.5a123 123 0 0 0-30.8-45.3 123 123 0 0 0-45.3-30.8c-16.9-7.3-38.1-12.4-64.5-13.5-26.6-1.2-35-1.5-102.7-1.5z"/>
     <path fill="currentColor" d="M256 134.6c-74.2 0-134.6 60.4-134.6 134.6S181.8 403.8 256 403.8 390.6 343.4 390.6 269.2 330.2 134.6 256 134.6zm0 230c-53 0-96.4-43.4-96.4-96.4s43.4-96.4 96.4-96.4 96.4 43.4 96.4 96.4-43.4 96.4-96.4 96.4z"/>
@@ -154,7 +154,7 @@ function Footer() {
 
 
 
-<a href="https://youtube.com/@jeejalstudio?si=mY-Hw96hufDZP_5y" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
+<a href="https://youtube.com/@jeejalstudiomusic?si=5kUCTKEx6ckPmVhg" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
   <svg xmlns="http://www.w3.org/2000/svg" className='text-gray-500' height="16" width="14" viewBox="0 0 448 512" fill="currentColor">
     <path d="M176 320V192L300 256 176 320zM416 32H32C14.33 32 0 46.33 0 64v384c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32V64c0-17.67-14.33-32-32-32zm-16 384H48V64h352v352z"/>
 </svg>

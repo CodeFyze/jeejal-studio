@@ -44,7 +44,7 @@ function Cards() {
         <Image src="/comm.png" className='m-5' width={1} height={1} layout='responsive' />
     </div>
     <div>
-   <h1 className='text-center mt-7 text-xl font-semibold'>Video Recording</h1>
+   <h1 className='text-center mt-7 text-xl font-semibold'>Pre Production</h1>
    </div>
 </div>
 </div>
