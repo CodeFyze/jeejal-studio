@@ -53,7 +53,7 @@ function Footer() {
             <h2 className="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Follow us</h2>
             <ul className="text-white dark:text-gray-400 font-medium">
               <li className="mb-4">
-                <a href="https://www.instagram.com/jeejal_studio?igsh=bnJoZHo3c2M1YXE2" className="hover:underline ">Instagram</a>
+                <a href="https://www.instagram.com/jeejal_studio?igsh=MWwxNnRoMTZ6aDRpbQ==" className="hover:underline ">Instagram</a>
               </li>
               <li>
                 <a href="https://x.com/jeejalstudio768?t=3NdKF_VLqmBncr6ZCVZBqw&s=09" className="hover:underline">Twitter</a>
@@ -144,7 +144,7 @@ function Footer() {
 
 
         
-          <a href="https://www.tiktok.com/@jeejal_studio?_t=8iXLkw3VW2U&_r=1
+          <a href="https://www.tiktok.com/@jeejal.studio.movies?_t=ZS-8vQC9Pt8VPj&_r=1
 " className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
     <svg xmlns="http://www.w3.org/2000/svg" className='text-gray-500' height="16" width="14" viewBox="0 0 448 512" fill="currentColor">
         <path d="M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z"/>

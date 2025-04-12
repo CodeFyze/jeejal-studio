@@ -9,7 +9,7 @@ function Hero() {
     <div className="relative bg-gray-900 text-white overflow-hidden w-full">
       <div className="w-full h-auto aspect-w-16 aspect-h-9">
         <Image 
-          src="/herobanner1.svg"
+          src="/home .jpg"
           alt="Description of Image"
           layout="responsive"
           width={1600}
@@ -22,6 +22,7 @@ function Hero() {
           }`}
         />
       </div>
+      
     </div>
   );
 }

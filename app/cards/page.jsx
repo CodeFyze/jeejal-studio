@@ -16,8 +16,8 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
  With a passion for quality, they craft soulful melodies and cinematic experiences that resonate deeply with audiences worldwide.</p>
 </div>
 
-    <div  className='grid grid-cols-1 md:grid-cols-3  sm:grid-cols-2 md:m-24 m-10 items-center justify-evenly'  style={{ gap: '1rem' }} >
-    <div className="max-w-sm bg-white border shadow-xl border-gray-200 rounded-lg  hover:transation-all duration-300 delay-75 hover:translate-x-6 dark:bg-gray-800 dark:border-gray-700">
+    <div  className='  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 sm:grid-cols-2 m-10 md:mx-24 items-center gap-3'  style={{ gap: '1rem' }} >
+    <div className="max-w-sm max-h-[700px]  bg-white border shadow-xl border-gray-200 rounded-lg  hover:transation-all duration-300 delay-75 hover:translate-x-6 dark:bg-gray-800 dark:border-gray-700">
     <div className="p-5">
       <a href="#">
         <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Jeejal Studio Music</h5>
@@ -73,7 +73,7 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
 
 
 
-<div className="max-w-sm bg-white border border-gray-200   hover:transation-all duration-300 delay-75 hover:translate-x-6 rounded-lg shadow-xl dark:bg-gray-800 dark:border-gray-700">
+<div className="max-w-sm minh-[700px] bg-white border border-gray-200   hover:transation-all duration-300 delay-75 hover:translate-x-6 rounded-lg shadow-xl dark:bg-gray-800 dark:border-gray-700">
     <div className="p-5">
       <a href="#">
         <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Jeejal Studio Movies and Shows</h5>
@@ -87,7 +87,7 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
           allowFullScreen  // Corrected attribute name
          >
       </iframe>
-      <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">OKHA PANDH.</p>
+      <p className="mb-3 font-normal text-gray-700 dark:text-gray-400 ">OKHA PANDH.  ali haider , iqra qureshi ,raheem ansari ,zulfqar burdi</p>
       <a href="https://www.youtube.com/@jeejalmovies4705" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-red-400 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
       Watch Now
         <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -98,7 +98,7 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
 </div>
 
 
-<div className="max-w-sm bg-white border border-gray-200 rounded-lg   hover:transation-all duration-300 delay-75 hover:translate-x-6 shadow-xl dark:bg-gray-800 dark:border-gray-700">
+<div className="max-w-sm  min-h-[200px] bg-white border border-gray-200 rounded-lg   hover:transation-all duration-300 delay-75 hover:translate-x-6 shadow-xl dark:bg-gray-800 dark:border-gray-700">
     <div className="p-5">
       <a href="#">
         <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Jeejal Production Nawabshah Official</h5>
@@ -118,7 +118,7 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
 
 
 
-<div className="max-w-sm bg-white border border-gray-200 rounded-lg  hover:transation-all duration-300 delay-75 hover:translate-x-6 shadow-xl dark:bg-gray-800 dark:border-gray-700">
+<div className="max-w-sm min-h-[250px] bg-white border border-gray-200 rounded-lg  hover:transation-all duration-300 delay-75 hover:translate-x-6 shadow-xl dark:bg-gray-800 dark:border-gray-700">
     <div className="p-5">
       <a href="#">
         <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Jeejal Studio Music</h5>
@@ -137,7 +137,7 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
 
 
 
-<div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow-xl   hover:transation-all duration-300 delay-75 hover:translate-x-6 dark:bg-gray-800 dark:border-gray-700">
+<div className="max-w-sm min-h-[250px] bg-white border border-gray-200 rounded-lg shadow-xl   hover:transation-all duration-300 delay-75 hover:translate-x-6 dark:bg-gray-800 dark:border-gray-700">
     <div className="p-5">
       <a href="#">
         <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Jeejal Studio Islamic </h5>
