@@ -10,7 +10,7 @@ function page() {
       <div className="relative text-white overflow-hidden w-full">
         
         <Image
-          src="/services.png"
+          src="/Services.png"
           alt="Description of Image"
           width={1600}
           height={0}
