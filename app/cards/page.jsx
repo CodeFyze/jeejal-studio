@@ -82,13 +82,13 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
           className="w-full rounded-lg" 
           width="560" 
           height="315" 
-          src="https://www.youtube.com/embed/_idgkuNsz2s" 
+          src="https://www.youtube.com/embed/XA8dc18DZsE?si=W_xpYOqXNV3WC5oV" 
           frameBorder="0"  // Corrected attribute name
           allowFullScreen  // Corrected attribute name
          >
       </iframe>
-      <p className="mb-3 font-normal text-gray-700 dark:text-gray-400 ">OKHA PANDH.  ali haider , iqra qureshi ,raheem ansari ,zulfqar burdi</p>
-      <a href="https://www.youtube.com/@jeejalmovies4705" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-red-400 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+      <p className="mb-3 font-normal text-gray-700 dark:text-gray-400 ">A True Tale of the Indus River | Short Movie l (درياھ منجھ دانھ) River's Cmplaint</p>
+      <a href="https://youtu.be/XA8dc18DZsE?si=GiiHf7eOZBBLTbHh" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-red-400 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
       Watch Now
         <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
           <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M1 5h12m0 0L9 1m4 4L9 9" />

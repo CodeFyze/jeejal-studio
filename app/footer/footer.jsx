@@ -154,7 +154,7 @@ function Footer() {
 
 
 
-<a href="https://youtube.com/@jeejalstudiomusic?si=5kUCTKEx6ckPmVhg" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
+<a href="https://youtube.com/@jeejalmovies?si=LjfvwNYNdpOoKR2V" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
   <svg xmlns="http://www.w3.org/2000/svg" className='text-gray-500' height="16" width="14" viewBox="0 0 448 512" fill="currentColor">
     <path d="M176 320V192L300 256 176 320zM416 32H32C14.33 32 0 46.33 0 64v384c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32V64c0-17.67-14.33-32-32-32zm-16 384H48V64h352v352z"/>
 </svg>

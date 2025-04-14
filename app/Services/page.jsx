@@ -73,26 +73,26 @@ function page() {
               <img className="h-auto max-w-full rounded-lg" src="/12.jpeg" alt="image" />
             </div>
             <div>
-              <img className="h-auto max-w-full rounded-lg" src="/222.jpg" alt="image" />
+              <img className="h-auto max-w-full rounded-lg" src="/222.jpg" alt="222" />
             </div>
 
             <div>
-              <img className="h-auto max-w-full rounded-lg" src="/B.jpg" alt="image" />
+              <img className="h-auto max-w-full rounded-lg" src="/B.jpg" alt="b" />
             </div>
           </div>
           <div className="grid gap-4">
             <div>
-              <img className="h-auto max-w-full rounded-lg" src="/02.jpg" alt="image" />
+              <img className="h-auto max-w-full rounded-lg" src="/02.jpg" alt="ui" />
             </div>
             <div>
-              <img className="h-auto max-w-full rounded-lg" src="/mic.jpg" alt="image" />
+              <img className="h-auto max-w-full rounded-lg" src="/mic.jpg" alt="mic" />
             </div>
             <div>
-              <img className="h-auto max-w-full rounded-lg" src="/333.jpg" alt="image" />
+              <img className="h-auto max-w-full rounded-lg" src="/333.jpg" alt="33" />
 
             </div>
             <div>
-              <img className="h-auto max-w-full rounded-lg" src="/HEADFON.jpg" alt="image" />
+              <img className="h-auto max-w-full rounded-lg" src="/HEADFON.jpg" alt="head" />
 
             </div>
           </div>
